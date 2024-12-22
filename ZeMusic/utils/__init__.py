@@ -5,7 +5,6 @@ from .exceptions import *
 from .extraction import *
 from .formatters import *
 from .logger import *
-from .start import *
 from .pastebin import *
 from .sys import *
 from .thumbnails import *
